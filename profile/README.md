@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/team-dev-pde-logo.png" width="160" alt="TEAM DEV PDE Logo" />
+<img src="./assets/banner-team-dev-pde.png" width="100%" alt="TEAM DEV PDE Banner" />
 
 # TEAM DEV PDE
 
