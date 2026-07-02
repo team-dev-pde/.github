@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Code+for+Care%2C+Innovate+for+Service;Berkarya+dengan+kode%2C+melayani+dengan+inovasi;Building+secure%2C+reliable%2C+and+integrated+systems" alt="Typing SVG" />
 <img src="./assets/banner-team-dev-pde.png" width="100%" alt="TEAM DEV PDE Banner" />
 
 ### Code for Care, Innovate for Service
