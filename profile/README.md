@@ -174,4 +174,6 @@ Setiap kontribusi, perubahan, dan deployment harus mengikuti standar keamanan, v
 
 _Code for Care, Innovate for Service_
 
+![](https://komarev.com/ghpvc/?username=team-dev-pde&color=000000&label=Visitors)
+
 </div>
