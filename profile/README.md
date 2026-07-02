@@ -2,8 +2,6 @@
 
 <img src="./assets/banner-team-dev-pde.png" width="100%" alt="TEAM DEV PDE Banner" />
 
-# TEAM DEV PDE
-
 ### Code for Care, Innovate for Service
 
 **Berkarya dengan kode, melayani dengan inovasi.**
